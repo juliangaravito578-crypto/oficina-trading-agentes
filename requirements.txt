@@ -1,0 +1,5 @@
+Plaintext
+yfinance
+pandas
+requests
+google-generativeai
